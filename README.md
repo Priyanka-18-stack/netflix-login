@@ -2,7 +2,8 @@
 This project is a login page that closely replicates the Netflix login experience, built using React for the frontend and Node.js with Express for the backend API server. It demonstrates a typical authentication flow with form validation, mock credential checking, API communication, and conditional UI behavior including error handling and redirect on success.
 live:https://netflix-login-kappa-ten.vercel.app/
 
-![Uploading netfkix.PNG…]()
+
+<img width="1905" height="830" alt="netfkix" src="https://github.com/user-attachments/assets/13827a49-7dbf-43e5-aa6e-99882e9e8c96" />
 
 
 📝 Project Overview
